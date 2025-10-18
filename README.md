@@ -49,7 +49,14 @@ Mostra a arquitetura física do sistema, incluindo servidores, banco de dados e 
 
 ---
 
+🚀 Tecnologias
+UML
+Figma
+PlantUML
+Draw.io
 ## 👨‍💻 Autor
+
+---
 
 **Gabriel Reis**  
 📚 Engenharia de Software  
