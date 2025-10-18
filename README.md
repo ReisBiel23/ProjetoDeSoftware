@@ -20,8 +20,8 @@ Principais atores e funcionalidades do sistema.
 Representa a estrutura interna do sistema e separação por responsabilidades.
 ![Diagrama de Classes e Pacotes](Diagrama_de_Pacote_e_CLasses.jpeg)
 
-### 🧩 Diagrama de Componentes
-Representa a estrutura interna do sistema e separação por responsabilidades.
+### 🧩 Diagrama de Componentes  
+Representa a arquitetura lógica do sistema, destacando os principais componentes e suas interações, além da separação por responsabilidades.
 ![Diagrama de Classes e Pacotes](Diagrama_de_Componentes.jpeg)
 
 ### 🖥️ Diagrama de Implantação
@@ -49,15 +49,16 @@ Mostra a arquitetura física do sistema, incluindo servidores, banco de dados e 
 
 ---
 
-🚀 Tecnologias
-UML
-Figma
-PlantUML
-Draw.io
-## 👨‍💻 Autor
+## 🚀 Tecnologias
+- UML
+- Figma
+- PlantUML
+- Draw.io
+
 
 ---
 
+## 👨‍💻 Autor
 **Gabriel Reis**  
 📚 Engenharia de Software  
 
